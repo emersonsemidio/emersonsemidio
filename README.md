@@ -39,12 +39,5 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonsemidio&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonsemidio&layout=compact&theme=radical)  
-
----
-
 ✨ Obrigado por visitar meu perfil!  
 Sempre aberto a aprender, colaborar e desenvolver soluções com tecnologia 🚀  
