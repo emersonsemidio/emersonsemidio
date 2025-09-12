@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Emerson de Santana Emídio  
 
-🎯 Estou me candidatando à vaga de **Desenvolvedor Java Júnior**.  
 💻 Tenho **2 anos de experiência** como estagiário em desenvolvimento de sistemas na **Finep**, onde atuei:  
 - Na **manutenção de sistemas internos**  
 - Na **identificação e correção de bugs**  
